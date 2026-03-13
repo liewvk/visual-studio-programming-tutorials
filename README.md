@@ -11,6 +11,6 @@ Learn programming with Visual Studio — VB.NET, C#, Python, and JavaScript tuto
 
 # More tutorials available at:
 
-<ul><li></li>https://www.vbtutor.net  
-<li></li>https://visualstudiotutor.com
+<ul><li>https://www.vbtutor.net  
+<li>https://visualstudiotutor.com
 </ul>
