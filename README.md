@@ -5,4 +5,4 @@ Learn programming with Visual Studio — VB.NET, C#, Python, and JavaScript tuto
   <li>https://github.com/liewvk/Loan-Calculator
     <li>https://github.com/liewvk/Future-Value-Calculator
 </ul>
-# Python in Visual Studio 
+# Python Projects
