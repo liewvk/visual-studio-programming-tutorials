@@ -7,3 +7,4 @@ Learn programming with Visual Studio — VB.NET, C#, Python, and JavaScript tuto
 </ul>
 
 # Python in Visual Studio 
+<ul><li>https://github.com/liewvk/Password-Cracker</li></ul>
